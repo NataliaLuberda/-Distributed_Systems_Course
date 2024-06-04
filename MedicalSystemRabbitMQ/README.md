@@ -6,11 +6,6 @@ This project is a simulation of a medical workflow automation system using Rabbi
 
 - [Components](#components)
 - [Getting Started](#getting-started)
-- [Running the Application](#running-the-application)
-- [How the Application Works](#how-the-application-works)
-- [Prerequisites](#prerequisites)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Components
 
